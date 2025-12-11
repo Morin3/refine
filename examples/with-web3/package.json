@@ -32,7 +32,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.8.1",
-    "web3": "^1.6.1",
+    "web3": "^4.0.1",
     "web3modal": "^1.9.4"
   },
   "devDependencies": {
@@ -45,6 +45,6 @@
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^4.2.1",
     "typescript": "^5.4.2",
-    "vite": "^5.1.6"
+    "vite": "^5.4.21"
   }
 }
