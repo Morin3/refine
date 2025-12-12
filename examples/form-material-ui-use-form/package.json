@@ -27,7 +27,7 @@
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
     "@mui/lab": "^5.0.0-alpha.85",
-    "@mui/material": "^5.14.2",
+    "@mui/material": "^5.16.2",
     "@mui/x-data-grid": "^6.6.0",
     "@refinedev/cli": "^2.16.36",
     "@refinedev/core": "^4.53.0",
@@ -47,6 +47,6 @@
     "@vitejs/plugin-react": "^4.2.1",
     "cypress": "^13.6.3",
     "typescript": "^5.4.2",
-    "vite": "^5.1.6"
+    "vite": "^5.2.14"
   }
 }
