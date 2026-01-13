@@ -70,7 +70,7 @@
     "esbuild-copy-static-files": "^0.1.0",
     "esbuild-plugin-inline-image": "^0.0.8",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^29.3.1",
+    "jest": "^30.0.0",
     "jest-environment-jsdom": "^29.3.1",
     "postcss": "^8.1.4",
     "react-router-dom": "^6.8.1",
