@@ -20,7 +20,7 @@
     "@refinedev/simple-rest": "^5.0.8",
     "antd": "^5.17.0",
     "cross-env": "^7.0.3",
-    "i18next": "^20.1.0",
+    "i18next": "^26.3.4",
     "i18next-browser-languagedetector": "^6.1.1",
     "i18next-resources-to-backend": "^1.2.0",
     "i18next-xhr-backend": "^3.2.2",

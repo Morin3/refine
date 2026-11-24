@@ -38,7 +38,7 @@
     "@refinedev/react-router-v6": "^4.5.11",
     "@refinedev/simple-rest": "^5.0.8",
     "dayjs": "^1.10.7",
-    "i18next": "^20.1.0",
+    "i18next": "^26.3.4",
     "i18next-browser-languagedetector": "^6.1.1",
     "i18next-xhr-backend": "^3.2.2",
     "react": "^18.0.0",
